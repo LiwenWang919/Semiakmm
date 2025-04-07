@@ -1,1 +1,1 @@
-# Semiakmm
+[AAAI2025] Anatomical Knowledge Mining and Matching for Semi-supervised Medical Multi-structure Detection
