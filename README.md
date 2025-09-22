@@ -1,1 +1,1 @@
-[AAAI2025] Anatomical Knowledge Mining and Matching for Semi-supervised Medical Multi-structure Detection
+[AAAI2025] Anatomical Knowledge Mining and Matching for Semi-supervised Medical Multi-structure Detection by Liwen Wang, Bin Pu, Jiewen Yang, Xingbo Dong, Benteng Ma, Zhuangzhuang Chen, Lei Zhao, Shengli Li, Kenli Li
